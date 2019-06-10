@@ -43,7 +43,7 @@ Po wykorzystaniu schematu Hornera:<br>
 <br>
 **Źródło**: [Wikipedia: Horner](https://pl.wikipedia.org/wiki/Schemat_Hornera)
 
-**Pseudo kod algorytmu**:
+**Pseudo kod algorytmu**: <br>
 ![](https://i.imgur.com/YJwnZXO.png)
 
 ## Implementacja
