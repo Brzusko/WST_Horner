@@ -35,10 +35,12 @@ Zalecam wygenerowanie własnego projektu w dowolnym IDE, oraz przekopiowanie zaw
 Jest to sposób obliczania wartości wielomianu dla argumentu, wykorzystując mniejsza ilość mnożeń.  Stosując ten sposób algorytm złożoność obliczeniowa algorytmu wynosi O(n).
 Algorytm rozbija owy wielomian, dzięki temu unikamy niepotrzebnych mnożeń, które by wystąpiły przy klasycznym podnoszeniu liczby o dany wykładnik potęgi. 
 **Zastosowanie schematu Hornera**:
-Wzór na wielomian :
+Wzór na wielomian : <br>
 ![](https://i.imgur.com/j993lbH.png)
-Po wykorzystaniu schematu Hornera:
+<br>
+Po wykorzystaniu schematu Hornera:<br>
 ![](https://i.imgur.com/KoWs8fG.png)
+<br>
 **Źródło**: [Wikipedia: Horner](https://pl.wikipedia.org/wiki/Schemat_Hornera)
 
 **Pseudo kod algorytmu**:
